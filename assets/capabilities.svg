@@ -1,0 +1,100 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 402" width="1200" height="402"
+     role="img" aria-label="AI Systems: Agents, MCP tooling; RAG, hybrid retrieval; LoRA, DPO, GRPO; vLLM and SGLang; Evals, guardrails | Product &amp; Platform: TypeScript, Python; Event-driven backends; Postgres, ClickHouse; Kubernetes, Terraform; Latency and cost | Leadership: 0 to 1 products; Hiring and scaling; Token unit economics; AI governance; Investor and board">
+  <title>Capabilities</title>
+  <defs>
+    <style><![CDATA[
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: url(data:font/woff2;charset=utf-8;base64,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) format('woff2');
+}
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url(data:font/woff2;charset=utf-8;base64,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) format('woff2');
+}
+text { font-family:'JetBrains Mono',ui-monospace,monospace; }
+.ct { font-size:24.5px; font-weight:700; letter-spacing:0.16em; fill:#E8F0FA; }
+.it { font-size:24.0px; fill:#AFBFD3; letter-spacing:.005em; }
+
+.e { animation: enter .85s cubic-bezier(.16,1,.3,1) backwards; }
+@keyframes enter { from { opacity:0; transform: translateY(12px); } to { opacity:1; transform: translateY(0); } }
+
+.rule { animation: rule .9s cubic-bezier(.16,1,.3,1) .25s backwards; }
+@keyframes rule { from { transform:scaleX(0); } to { transform:scaleX(1); } }
+
+.scan { animation: drift 9s linear infinite; }
+@keyframes drift { to { transform: translateY(4px); } }
+.sweep { animation: sweep 8.5s cubic-bezier(.55,0,.45,1) infinite; }
+
+@keyframes sweep { 0% { transform:translateY(0); } 62%,100% { transform:translateY(844px); } }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+  .e, .cell { opacity: 1 !important; transform: none !important; }
+  .hz { opacity: .45 !important; }
+  .gc, .gm, .gs1, .gs2 { opacity: 0 !important; }
+}
+
+]]></style>
+    <clipPath id="frame"><path d="M20,0H1200V382L1180,402H0V20L20,0Z"/></clipPath>
+    <radialGradient id="glowC" cx=".12" cy="1" r=".9">
+      <stop offset="0" stop-color="#00E5FF" stop-opacity=".08"/>
+      <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+    </radialGradient>
+
+  <pattern id="scan" width="1" height="4" patternUnits="userSpaceOnUse">
+    <rect width="1" height="1" fill="#000" opacity=".45"/>
+  </pattern>
+  <linearGradient id="sweepG" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#00E5FF" stop-opacity="0"/>
+    <stop offset=".5" stop-color="#00E5FF" stop-opacity=".055"/>
+    <stop offset="1" stop-color="#00E5FF" stop-opacity="0"/>
+  </linearGradient>
+  <radialGradient id="vig" cx=".5" cy=".45" r=".78">
+    <stop offset=".55" stop-color="#000" stop-opacity="0"/>
+    <stop offset="1" stop-color="#000" stop-opacity=".55"/>
+  </radialGradient>
+  <filter id="grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency=".9" numOctaves="3" stitchTiles="stitch"/>
+    <feColorMatrix type="saturate" values="0"/>
+  </filter>
+  <filter id="bloom" x="-40%" y="-40%" width="180%" height="180%">
+    <feGaussianBlur stdDeviation="3.4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="402" fill="#080B12"/>
+    <rect width="1200" height="402" fill="url(#glowC)"/>
+    <g class="e" style="animation-delay:0.10s"><line class="rule" x1="64.0" y1="62" x2="400.0" y2="62" stroke="#223044" stroke-width="1" style="transform-origin:64.0px 0"/><line class="rule" x1="64.0" y1="62" x2="118.0" y2="62" stroke="#00E5FF" stroke-width="2" style="transform-origin:64.0px 0"/><text class="ct" x="64.0" y="102">AI SYSTEMS</text>
+<g class="e" style="animation-delay:0.20s"><path d="M68.5,137H75.0V143.5L71.5,147H65.0V140.5L68.5,137Z" fill="#00E5FF" opacity=".85"/><text class="it" y="148"><tspan x="90.0" dy="0">Agents, MCP tooling</tspan></text></g>
+<g class="e" style="animation-delay:0.25s"><path d="M68.5,185H75.0V191.5L71.5,195H65.0V188.5L68.5,185Z" fill="#00E5FF" opacity=".85"/><text class="it" y="196"><tspan x="90.0" dy="0">RAG, hybrid retrieval</tspan></text></g>
+<g class="e" style="animation-delay:0.30s"><path d="M68.5,233H75.0V239.5L71.5,243H65.0V236.5L68.5,233Z" fill="#00E5FF" opacity=".85"/><text class="it" y="244"><tspan x="90.0" dy="0">LoRA, DPO, GRPO</tspan></text></g>
+<g class="e" style="animation-delay:0.35s"><path d="M68.5,281H75.0V287.5L71.5,291H65.0V284.5L68.5,281Z" fill="#00E5FF" opacity=".85"/><text class="it" y="292"><tspan x="90.0" dy="0">vLLM and SGLang</tspan></text></g>
+<g class="e" style="animation-delay:0.40s"><path d="M68.5,329H75.0V335.5L71.5,339H65.0V332.5L68.5,329Z" fill="#00E5FF" opacity=".85"/><text class="it" y="340"><tspan x="90.0" dy="0">Evals, guardrails</tspan></text></g>
+</g>
+    <g class="e" style="animation-delay:0.22s"><line class="rule" x1="432.0" y1="62" x2="768.0" y2="62" stroke="#223044" stroke-width="1" style="transform-origin:432.0px 0"/><line class="rule" x1="432.0" y1="62" x2="486.0" y2="62" stroke="#00E5FF" stroke-width="2" style="transform-origin:432.0px 0"/><text class="ct" x="432.0" y="102">PRODUCT &amp; PLATFORM</text>
+<g class="e" style="animation-delay:0.32s"><path d="M436.5,137H443.0V143.5L439.5,147H433.0V140.5L436.5,137Z" fill="#00E5FF" opacity=".85"/><text class="it" y="148"><tspan x="458.0" dy="0">TypeScript, Python</tspan></text></g>
+<g class="e" style="animation-delay:0.37s"><path d="M436.5,185H443.0V191.5L439.5,195H433.0V188.5L436.5,185Z" fill="#00E5FF" opacity=".85"/><text class="it" y="196"><tspan x="458.0" dy="0">Event-driven backends</tspan></text></g>
+<g class="e" style="animation-delay:0.42s"><path d="M436.5,233H443.0V239.5L439.5,243H433.0V236.5L436.5,233Z" fill="#00E5FF" opacity=".85"/><text class="it" y="244"><tspan x="458.0" dy="0">Postgres, ClickHouse</tspan></text></g>
+<g class="e" style="animation-delay:0.47s"><path d="M436.5,281H443.0V287.5L439.5,291H433.0V284.5L436.5,281Z" fill="#00E5FF" opacity=".85"/><text class="it" y="292"><tspan x="458.0" dy="0">Kubernetes, Terraform</tspan></text></g>
+<g class="e" style="animation-delay:0.52s"><path d="M436.5,329H443.0V335.5L439.5,339H433.0V332.5L436.5,329Z" fill="#00E5FF" opacity=".85"/><text class="it" y="340"><tspan x="458.0" dy="0">Latency and cost</tspan></text></g>
+</g>
+    <g class="e" style="animation-delay:0.34s"><line class="rule" x1="800.0" y1="62" x2="1136.0" y2="62" stroke="#223044" stroke-width="1" style="transform-origin:800.0px 0"/><line class="rule" x1="800.0" y1="62" x2="854.0" y2="62" stroke="#00E5FF" stroke-width="2" style="transform-origin:800.0px 0"/><text class="ct" x="800.0" y="102">LEADERSHIP</text>
+<g class="e" style="animation-delay:0.44s"><path d="M804.5,137H811.0V143.5L807.5,147H801.0V140.5L804.5,137Z" fill="#00E5FF" opacity=".85"/><text class="it" y="148"><tspan x="826.0" dy="0">0 to 1 products</tspan></text></g>
+<g class="e" style="animation-delay:0.49s"><path d="M804.5,185H811.0V191.5L807.5,195H801.0V188.5L804.5,185Z" fill="#00E5FF" opacity=".85"/><text class="it" y="196"><tspan x="826.0" dy="0">Hiring and scaling</tspan></text></g>
+<g class="e" style="animation-delay:0.54s"><path d="M804.5,233H811.0V239.5L807.5,243H801.0V236.5L804.5,233Z" fill="#00E5FF" opacity=".85"/><text class="it" y="244"><tspan x="826.0" dy="0">Token unit economics</tspan></text></g>
+<g class="e" style="animation-delay:0.59s"><path d="M804.5,281H811.0V287.5L807.5,291H801.0V284.5L804.5,281Z" fill="#00E5FF" opacity=".85"/><text class="it" y="292"><tspan x="826.0" dy="0">AI governance</tspan></text></g>
+<g class="e" style="animation-delay:0.64s"><path d="M804.5,329H811.0V335.5L807.5,339H801.0V332.5L804.5,329Z" fill="#00E5FF" opacity=".85"/><text class="it" y="340"><tspan x="826.0" dy="0">Investor and board</tspan></text></g>
+</g>
+
+    <rect class="scan" x="0" y="-6" width="1200" height="414" fill="url(#scan)" opacity=".2"/>
+    <rect class="sweep" x="0" y="-402" width="1200" height="402" fill="url(#sweepG)"/>
+    <rect x="0" y="0" width="1200" height="402" filter="url(#grain)" opacity=".05" style="mix-blend-mode:overlay"/>
+    <rect x="0" y="0" width="1200" height="402" fill="url(#vig)"/>
+  </g>
+  <path d="M20.5,0.5H1199.5V381.5L1179.5,401.5H0.5V20.5L20.5,0.5Z" fill="none" stroke="#223044" stroke-width="1"/><path d="M1179,1.5 H1198.5 V21" fill="none" stroke="#00E5FF" stroke-width="1.5" opacity=".85"/><path d="M1.5,381 V400.5 H21" fill="none" stroke="#00E5FF" stroke-width="1.5" opacity=".85"/><path d="M0.5,20 L20,0.5" fill="none" stroke="#00E5FF" stroke-width="1.5" opacity=".55"/><path d="M1180,401.5 L1199.5,382" fill="none" stroke="#00E5FF" stroke-width="1.5" opacity=".55"/>
+</svg>

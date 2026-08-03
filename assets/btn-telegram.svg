@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 68" width="300" height="68"
+     role="img" aria-label="Telegram">
+  <title>Telegram</title>
+  <defs><style><![CDATA[
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: url(data:font/woff2;charset=utf-8;base64,d09GMgABAAAAAATQAA8AAAAACQQAAAR3AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhYbHhwoBmA/U1RBVEwAdBEICoY8hG0LHgABNgIkAx4EIAWEaAcgGxAHyMTnezf7O5OEhUxY07ojFbUgNadyaFiTPxP6zPVrBTnNEzVeM//383Xr4wNNnduLvosMiwzjSCuLpInp/0vsaj3IHVk6CAAJYxsFGQDpEANEhEExqapp6oIe/FeDpmGwJZ3QAxRS17uGlDmsHjZg9vPUTp+HANDjVAZl4ymJ9COHlIkywNDbj5tBtbX4+zsA+saBhoo38lGQudCK7ygXImlRIDd9FARoAlXBEQVBR0bPwoCNB1acf9fEpKLaU1PKkIusAcFG8OBAQMlavQE923T0+RFLNtEfLYcAcHwQLHIS8Ri8di048IhCOapRi3q0oANdkC1EPnCrBI1XaD9oL2svai9oz2vPaU9rT2mP82qxTiUgmoY1F8xz7DB6PVBfgYlkYLm8iwONTd0Ge/wXgOc4vUESpTjJqAtfv8ag38oEIz9sFEZnJDbA+sQescvBem4NbL/aF8YEdsLvBz3s84k97MRlwh25JIpMMEKCERKMGDoeCBDuSDDITvj9EI9cEo9fAD18kZ24TIhIGA77fIwwTiRGiJSBCYwyB5Ntol2kTGC8EUxg3Tfcsumq2yJ7GS+SI8FgMFIW7Tf4/X6ACazv2kCAcIwX+6/x+0GZIMZx2FdHz3BTTCOU/2GeOeys+5obNl11045eGX/1nmsf3Lx0/dYuu3q72pedVliqpRakIfap5VueXj6c+PCriQ+XbF5Kfe3mNS3R0atbXkKjutzgyi0cq1lXXTjuymtwuJ3WkGWdOWR1QlafnC18catra6BwFpmGmklz3mBFSWXewKS5pnbcnD9QedA8ZjJ5TKWmXSbThKlhv+vfJyvyB8fNsM95V7xzt895V7xzaFIPJPYeTTh6a9+9+06cKesux4R6YNyqIE9dqvnq1uWwsOXzlV8tqZ7PcgTPKo84lTsku0flasO4XhF2WT9DnXrNu82Zuh7OHmN3q9e83RwmtHPdcWNoUr+qn7YUDlbU1c0GzppOHoy2xZydtjxjMj9rmcYP4y8pIeWlcYS943lh5KTjSe/v+cm/e51PHn1h8J3dJ8ff8QoFBX94J94BilL5d/KfsPLSioMOrCn6Q89xXw8D712689rTJfXCr/8Urfj481wIBLpCQSiwMlyYf/ifov9d/Pl0/oZQGXbEohEy6mBHEyaQhzo0ISOlEexiq8nTmMPj0FECToJdwpVlx/Adgut5svkmIQjDvxIKPX6VcLDieQ+PBDqJgO3YL9EhDrJ4NayIYYgcnPcc0fHLIGsgQbzRa4fHgA7MYxZDmEM9lKGiC1MYQS/GEhOYhLIrVLCARRQgc3hsESNwYwoLULCIDLBNwdX7xTzcmEAmWlGDJjRgDAoq4MYQpjCHRTRjvoHAlo6KUakLo+jBGNy0yMdYFHKQ0aOzhy0oNVEjYVQdli4cgYpDhxKJRdv86UpwLGCPjZgHEM1A1m49UejCJMYQpaGtDe5RYhpjGKF1lMPjScRHCGp4klcdE5j6merBMDIwEpVRmRLGzbQRJHfv8CSkjSEnIxvXAAA=) format('woff2');
+}
+text { font-family:'JetBrains Mono',ui-monospace,monospace; font-weight:700;
+  font-size:19px; letter-spacing:.14em; fill:#E8F0FA; }
+.gl { opacity:.7; animation: gl 4.5s ease-in-out infinite; }
+@keyframes gl { 0%,100% { opacity:.25; } 50% { opacity:.9; } }
+.ic { fill:#00E5FF; animation: ic 4.5s ease-in-out infinite; }
+@keyframes ic { 0%,100% { fill:#AFBFD3; } 50% { fill:#00E5FF; } }
+
+@media (prefers-reduced-motion: reduce) {
+  * { animation: none !important; transition: none !important; }
+  .e, .cell { opacity: 1 !important; transform: none !important; }
+  .hz { opacity: .45 !important; }
+  .gc, .gm, .gs1, .gs2 { opacity: 0 !important; }
+}
+
+]]></style>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080C14"/><stop offset="1" stop-color="#05070C"/>
+    </linearGradient>
+  </defs>
+  <path d="M15,1H299V53L285,67H1V15L15,1Z" fill="url(#bg)" stroke="#223044" stroke-width="1.5"/>
+  <path class="gl" d="M1,15 L15,1" stroke="#00E5FF" stroke-width="2" fill="none"/>
+  <path class="gl" d="M285,67 L299,53" stroke="#00E5FF" stroke-width="2" fill="none"/>
+  <g class="ic" transform="translate(28,23.0) scale(0.9166666666666666)"><path d="M11.944 0A12 12 0 0 0 0 12a12 12 0 0 0 12 12 12 12 0 0 0 12-12A12 12 0 0 0 12 0a12 12 0 0 0-.056 0zm4.962 7.224c.1-.002.321.023.465.14a.506.506 0 0 1 .171.325c.016.093.036.306.02.472-.18 1.898-.962 6.502-1.36 8.627-.168.9-.499 1.201-.82 1.23-.696.065-1.225-.46-1.9-.902-1.056-.693-1.653-1.124-2.678-1.8-1.185-.78-.417-1.21.258-1.91.177-.184 3.247-2.977 3.307-3.23.007-.032.014-.15-.056-.212s-.174-.041-.249-.024c-.106.024-1.793 1.14-5.061 3.345-.48.33-.913.49-1.302.48-.428-.008-1.252-.241-1.865-.44-.752-.245-1.349-.374-1.297-.789.027-.216.325-.437.893-.663 3.498-1.524 5.83-2.529 6.998-3.014 3.332-1.386 4.025-1.627 4.476-1.635z"/></g>
+  <text x="66" y="41.0">TELEGRAM</text>
+</svg>

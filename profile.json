@@ -1,0 +1,158 @@
+{
+  "identity": {
+    "wordmark": "EGOISTONLY",
+    "handle": "egoistonly",
+    "roles": [
+      "AI Engineer",
+      "CEO / CTO",
+      "Full-stack Engineer",
+      "LLM Systems Architect"
+    ],
+    "statement": "I build LLM agents, inference platforms and the teams that ship them."
+  },
+  "capabilities": [
+    {
+      "title": "AI Systems",
+      "items": [
+        "Agents, MCP tooling",
+        "RAG, hybrid retrieval",
+        "LoRA, DPO, GRPO",
+        "vLLM and SGLang",
+        "Evals, guardrails"
+      ]
+    },
+    {
+      "title": "Product & Platform",
+      "items": [
+        "TypeScript, Python",
+        "Event-driven backends",
+        "Postgres, ClickHouse",
+        "Kubernetes, Terraform",
+        "Latency and cost"
+      ]
+    },
+    {
+      "title": "Leadership",
+      "items": [
+        "0 to 1 products",
+        "Hiring and scaling",
+        "Token unit economics",
+        "AI governance",
+        "Investor and board"
+      ]
+    }
+  ],
+  "stack": [
+    {
+      "label": "AI / ML",
+      "icons": [
+        "python",
+        "pytorch",
+        "huggingface",
+        "openai",
+        "anthropic",
+        "langchain",
+        "nvidia"
+      ]
+    },
+    {
+      "label": "Backend",
+      "icons": [
+        "go",
+        "rust",
+        "fastapi",
+        "nodedotjs",
+        "graphql",
+        "apachekafka",
+        "redis"
+      ]
+    },
+    {
+      "label": "Web",
+      "icons": [
+        "typescript",
+        "react",
+        "nextdotjs",
+        "tailwindcss",
+        "bun",
+        "vite",
+        "vercel"
+      ]
+    },
+    {
+      "label": "Data / Infra",
+      "icons": [
+        "postgresql",
+        "clickhouse",
+        "qdrant",
+        "docker",
+        "kubernetes",
+        "terraform",
+        "amazonwebservices"
+      ]
+    }
+  ],
+  "links": [
+    {
+      "label": "Telegram",
+      "icon": "telegram",
+      "url": "https://t.me/CHANGEME"
+    },
+    {
+      "label": "LinkedIn",
+      "icon": "linkedin",
+      "url": "https://linkedin.com/in/CHANGEME"
+    },
+    {
+      "label": "X",
+      "icon": "x",
+      "url": "https://x.com/CHANGEME"
+    },
+    {
+      "label": "Email",
+      "icon": "maildotru",
+      "url": "mailto:CHANGEME@example.com"
+    }
+  ],
+  "fonts": {
+    "display": {
+      "query": "Archivo:wdth,wght@125,800",
+      "family": "Archivo",
+      "weight": 800,
+      "stretch": "125%"
+    },
+    "mono": {
+      "query": "JetBrains+Mono:wght@400",
+      "family": "JetBrains Mono",
+      "weight": 400
+    },
+    "monoBold": {
+      "query": "JetBrains+Mono:wght@700",
+      "family": "JetBrains Mono",
+      "weight": 700
+    }
+  },
+  "stats": {
+    "metrics": [
+      "repos",
+      "years",
+      "industries"
+    ],
+    "industries": [
+      "retail",
+      "finance",
+      "logistics",
+      "agriculture",
+      "security",
+      "education",
+      "healthcare",
+      "government",
+      "warehousing",
+      "manufacturing",
+      "development",
+      "orchestration",
+      "infrastructure",
+      "design"
+    ]
+  }
+}
