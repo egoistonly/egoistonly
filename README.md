@@ -25,7 +25,7 @@ Kubernetes, Terraform, мультиоблако и edge. Наблюдаемос�
 
 **Leadership.** Продукты от нуля до первой выручки, техническая стратегия и выбор ставок.
 Найм и рост инженерных команд, процессы ревью и on-call. Юнит-экономика токенов и маржинальность
-AI-фич. Governance: EU AI Act, готовность к SOC 2, работа с данными клиентов. Разговор с советом
+AI-фич. Governance: EU AI Act, готовность к SOC 2, работа с данными клиентов. Общение с советом
 директоров, инвесторами и корпоративными заказчиками на их языке.
 
 </details>
@@ -36,14 +36,13 @@ AI-фич. Governance: EU AI Act, готовность к SOC 2, работа с
 
 ### Отрасли
 
-<img src="assets/stats.svg" alt="Repositories, years on GitHub and the industries shipped in: retail, finance, logistics, agriculture, security, education, healthcare, government, warehousing, manufacturing, development, orchestration, infrastructure, design" width="100%">
+<img src="assets/stats.svg" alt="Repositories, years on GitHub and the industries shipped in: development, infrastructure, design, security, manufacturing, warehousing, logistics, retail, finance, education, healthcare" width="100%">
 
 ### Связаться
 
 <!-- Замените CHANGEME на свои контакты в profile.json и пересоберите. -->
 <!-- links:start -->
-<a href="https://t.me/CHANGEME"><img src="assets/btn-telegram.svg" alt="Telegram" width="182"></a>
-<a href="https://linkedin.com/in/CHANGEME"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="182"></a>
-<a href="https://x.com/CHANGEME"><img src="assets/btn-x.svg" alt="X" width="182"></a>
-<a href="mailto:CHANGEME@example.com"><img src="assets/btn-maildotru.svg" alt="Email" width="182"></a>
+<a href="https://t.me/egoistonly"><img src="assets/btn-telegram.svg" alt="Telegram" width="182"></a>
+<a href="https://x.com/egoistonly"><img src="assets/btn-x.svg" alt="X" width="182"></a>
+<a href="mailto:muv@aispire.ru"><img src="assets/btn-maildotru.svg" alt="Email" width="182"></a>
 <!-- links:end -->
