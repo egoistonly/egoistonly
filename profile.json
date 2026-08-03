@@ -4,11 +4,10 @@
     "handle": "egoistonly",
     "roles": [
       "AI Engineer",
-      "CEO / CTO",
-      "Full-stack Engineer",
-      "LLM Systems Architect"
+      "LLM Systems Architect",
+      "Full-stack Engineer"
     ],
-    "statement": "I build LLM agents, inference platforms and the teams that ship them."
+    "statement": "Multiplatform apps, AI engineering and digital transformation."
   },
   "capabilities": [
     {
@@ -34,10 +33,10 @@
     {
       "title": "Leadership",
       "items": [
-        "0 to 1 products",
+        "AI native business models",
+        "0 to 30+ products",
         "Hiring and scaling",
         "Token unit economics",
-        "AI governance",
         "Investor and board"
       ]
     }
@@ -58,10 +57,10 @@
     {
       "label": "Backend",
       "icons": [
+        "nodedotjs",
         "go",
         "rust",
         "fastapi",
-        "nodedotjs",
         "graphql",
         "apachekafka",
         "redis"
@@ -96,22 +95,17 @@
     {
       "label": "Telegram",
       "icon": "telegram",
-      "url": "https://t.me/CHANGEME"
-    },
-    {
-      "label": "LinkedIn",
-      "icon": "linkedin",
-      "url": "https://linkedin.com/in/CHANGEME"
+      "url": "https://t.me/egoistonly"
     },
     {
       "label": "X",
       "icon": "x",
-      "url": "https://x.com/CHANGEME"
+      "url": "https://x.com/egoistonly"
     },
     {
       "label": "Email",
       "icon": "maildotru",
-      "url": "mailto:CHANGEME@example.com"
+      "url": "mailto:muv@aispire.ru"
     }
   ],
   "fonts": {
@@ -139,20 +133,17 @@
       "industries"
     ],
     "industries": [
+      "development",
+      "infrastructure",
+      "design",
+      "security",
+      "manufacturing",
+      "warehousing",
+      "logistics",
       "retail",
       "finance",
-      "logistics",
-      "agriculture",
-      "security",
       "education",
-      "healthcare",
-      "government",
-      "warehousing",
-      "manufacturing",
-      "development",
-      "orchestration",
-      "infrastructure",
-      "design"
+      "healthcare"
     ]
   }
 }
