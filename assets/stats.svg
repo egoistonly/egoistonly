@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 370" width="1200" height="370" role="img"
-     aria-label="GitHub statistics for egoistonly: repositories 36, years on github 11, industries served 11. Domains: development, infrastructure, design, security, manufacturing, warehousing, logistics, retail, finance, education, healthcare">
+     aria-label="GitHub statistics for egoistonly: repositories 102, years on github 11, industries served 11. Domains: development, infrastructure, design, security, manufacturing, warehousing, logistics, retail, finance, education, healthcare">
   <title>GitHub statistics</title>
   <defs>
     <style><![CDATA[
@@ -75,7 +75,7 @@ text { font-family:'JetBrains Mono',ui-monospace,monospace; }
   <g clip-path="url(#frame)">
     <rect width="1200" height="370" fill="#080B12"/>
     <rect width="1200" height="370" fill="url(#glowM)"/>
-    <g class="e" style="animation-delay:0.10s"><text class="num" x="64.0" y="122">36</text><text class="lbl" x="67.0" y="158">REPOSITORIES</text></g>
+    <g class="e" style="animation-delay:0.10s"><text class="num" x="64.0" y="122">102</text><text class="lbl" x="67.0" y="158">REPOSITORIES</text></g>
     <g class="e" style="animation-delay:0.20s"><text class="num" x="421.3333333333333" y="122">11</text><text class="lbl" x="424.3333333333333" y="158">YEARS ON GITHUB</text></g>
     <g class="e" style="animation-delay:0.30s"><text class="num" x="778.6666666666666" y="122">11</text><text class="lbl" x="781.6666666666666" y="158">INDUSTRIES SERVED</text></g>
     <line x1="64" y1="186" x2="1136" y2="186" stroke="#16202E" stroke-width="1"/>

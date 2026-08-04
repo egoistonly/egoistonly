@@ -127,6 +127,7 @@
     }
   },
   "stats": {
+    "repo_count": 102,
     "metrics": [
       "repos",
       "years",

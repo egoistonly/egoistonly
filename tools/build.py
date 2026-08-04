@@ -620,7 +620,11 @@ text {{ font-family:'{fonts['mono'].family}',ui-monospace,monospace; }}
 # ---------------------------------------------------------------------------
 # label plural, label singular, read(user, own_repos, cfg)
 METRICS = {
-    "repos": ("REPOSITORIES", "REPOSITORY", lambda u, r, c: u.get("public_repos", 0)),
+    "repos": (
+        "REPOSITORIES",
+        "REPOSITORY",
+        lambda u, r, c: u.get("owned_repos", u.get("public_repos", 0)),
+    ),
     "stars": ("STARS EARNED", "STAR EARNED", lambda u, r, c: sum(x.get("stargazers_count", 0) for x in r)),
     "followers": ("FOLLOWERS", "FOLLOWER", lambda u, r, c: u.get("followers", 0)),
     "following": ("FOLLOWING", "FOLLOWING", lambda u, r, c: u.get("following", 0)),
@@ -643,6 +647,46 @@ def _years(iso: str) -> int:
     return max(0, int((datetime.now(timezone.utc) - born).days // 365.25))
 
 
+def _owned_repo_count(login: str, token: str) -> int | None:
+    import json
+    import urllib.error
+    import urllib.request
+
+    query = """
+    query($login: String!) {
+      user(login: $login) {
+        repositories(first: 1, ownerAffiliations: OWNER) {
+          totalCount
+        }
+      }
+    }
+    """
+    body = json.dumps({"query": query, "variables": {"login": login}}).encode()
+    req = urllib.request.Request(
+        "https://api.github.com/graphql",
+        data=body,
+        headers={
+            "Authorization": f"Bearer {token}",
+            "Content-Type": "application/json",
+            "User-Agent": "profile-builder",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=25) as r:
+            payload = json.loads(r.read())
+    except (urllib.error.URLError, TimeoutError, json.JSONDecodeError):
+        return None
+    if payload.get("errors"):
+        return None
+    user = (payload.get("data") or {}).get("user")
+    if not user:
+        return None
+    repos = user.get("repositories") or {}
+    count = repos.get("totalCount")
+    return count if isinstance(count, int) else None
+
+
 def gh_stats(login: str, wanted: list[str], cfg: dict) -> dict:
     import json
     import os
@@ -660,6 +704,13 @@ def gh_stats(login: str, wanted: list[str], cfg: dict) -> dict:
             return json.loads(r.read())
 
     user = api(f"/users/{login}")
+    owned = _owned_repo_count(login, token) if token else None
+    if owned is None:
+        owned = cfg.get("stats", {}).get("repo_count")
+    if owned is None:
+        owned = user.get("public_repos", 0)
+    user["owned_repos"] = owned
+
     repos, page = [], 1
     while page <= 4:
         chunk = api(f"/users/{login}/repos?per_page=100&type=owner&page={page}")

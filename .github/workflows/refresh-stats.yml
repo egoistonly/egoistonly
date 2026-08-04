@@ -24,7 +24,9 @@ jobs:
 
       - run: python tools/build.py stats
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # GH_PROFILE_TOKEN (PAT for egoistonly) keeps owned repo count accurate in CI.
+          # Falls back to profile.json stats.repo_count, then public_repos.
+          GH_TOKEN: ${{ secrets.GH_PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
 
       - name: Commit if changed
         run: |
